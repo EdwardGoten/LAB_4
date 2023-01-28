@@ -9,3 +9,4 @@ const swap = (array) => {
   }
   
   console.log(swap(['one', 'two', 'three']));
+ИУУ САЛАМЕКУМ
